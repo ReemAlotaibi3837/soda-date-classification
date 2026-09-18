@@ -14,9 +14,9 @@ A image classification project to identify 13 varieties of Arabic date fruits, d
 
 ## Repository Structure
 ```
+|-- README.md
 |-- SODA Report.docx    # Project report with full methodology and results
 |-- soda-competition-notebook (1).ipynb    # Full Training and inference pipeline
-|-- README.md
 ```
 
 ## Strategy Summary
